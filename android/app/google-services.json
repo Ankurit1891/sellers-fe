@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204628861503",
+    "project_id": "foodifyproject",
+    "storage_bucket": "foodifyproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204628861503:android:91e085c25ee2540e0b8e8a",
+        "android_client_info": {
+          "package_name": "com.ankurit.sellers_app_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204628861503-10d4obkdacrk93h7d77dejiembcj469b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGKUubmv3n-z8H4zUWxouSqBGd8KH-3sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204628861503-10d4obkdacrk93h7d77dejiembcj469b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
